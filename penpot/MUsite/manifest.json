@@ -1,0 +1,21 @@
+{
+  "type": "penpot\/export-files",
+  "version": 1,
+  "generatedBy": "penpot\/2.15.3",
+  "refer": "penpot",
+  "files": [
+    {
+      "id": "6adc1c2c-bb7b-801f-8008-106b8e77e707",
+      "name": "MUsite",
+      "features": [
+        "fdata\/path-data",
+        "design-tokens\/v1",
+        "variants\/v1",
+        "layout\/grid",
+        "components\/v2",
+        "fdata\/shape-data-type"
+      ]
+    }
+  ],
+  "relations": []
+}

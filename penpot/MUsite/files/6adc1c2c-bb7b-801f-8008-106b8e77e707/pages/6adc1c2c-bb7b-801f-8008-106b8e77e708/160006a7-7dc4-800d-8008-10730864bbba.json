@@ -1,0 +1,75 @@
+{
+  "id": "160006a7-7dc4-800d-8008-10730864bbba",
+  "name": "Board",
+  "type": "frame",
+  "x": 839,
+  "y": -5622.999999999999,
+  "width": 225,
+  "height": 110,
+  "rotation": 0,
+  "selrect": {
+    "x": 839,
+    "y": -5622.999999999999,
+    "width": 225,
+    "height": 110,
+    "x1": 839,
+    "y1": -5622.999999999999,
+    "x2": 1064,
+    "y2": -5512.999999999999
+  },
+  "points": [
+    {
+      "x": 839,
+      "y": -5622.999999999999
+    },
+    {
+      "x": 1064,
+      "y": -5622.999999999999
+    },
+    {
+      "x": 1064,
+      "y": -5512.999999999999
+    },
+    {
+      "x": 839,
+      "y": -5512.999999999999
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "frameId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "flipX": null,
+  "flipY": null,
+  "hideFillOnExport": false,
+  "growType": "fixed",
+  "hideInViewer": true,
+  "r2": 0,
+  "proportionLock": false,
+  "pageId": "6adc1c2c-bb7b-801f-8008-106b8e77e708",
+  "r3": 0,
+  "constraintsV": "top",
+  "constraintsH": "left",
+  "r1": 0,
+  "strokes": [],
+  "proportion": 1,
+  "r4": 0,
+  "fills": [],
+  "shapes": [
+    "160006a7-7dc4-800d-8008-1072c6f2a144"
+  ]
+}

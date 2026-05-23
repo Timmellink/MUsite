@@ -1,0 +1,86 @@
+{
+  "id": "160006a7-7dc4-800d-8008-10707f5393b4",
+  "name": "Floorball",
+  "type": "rect",
+  "x": 820,
+  "y": -5853,
+  "width": 300,
+  "height": 200,
+  "rotation": 0,
+  "selrect": {
+    "x": 820,
+    "y": -5853,
+    "width": 300,
+    "height": 200,
+    "x1": 820,
+    "y1": -5853,
+    "x2": 1120,
+    "y2": -5653
+  },
+  "points": [
+    {
+      "x": 819.9999999999999,
+      "y": -5853
+    },
+    {
+      "x": 1120,
+      "y": -5853
+    },
+    {
+      "x": 1120,
+      "y": -5653
+    },
+    {
+      "x": 819.9999999999999,
+      "y": -5653
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "160006a7-7dc4-800d-8008-107088e87752",
+  "frameId": "160006a7-7dc4-800d-8008-107088e87752",
+  "flipX": null,
+  "flipY": null,
+  "r2": 0,
+  "proportionLock": true,
+  "pageId": "6adc1c2c-bb7b-801f-8008-106b8e77e708",
+  "r3": 0,
+  "r1": 0,
+  "strokes": [
+    {
+      "strokeAlignment": "inner",
+      "strokeStyle": "solid",
+      "strokeColor": "#000000",
+      "strokeOpacity": 1,
+      "strokeWidth": 1
+    }
+  ],
+  "proportion": 1.5,
+  "r4": 0,
+  "fills": [
+    {
+      "fillOpacity": 1,
+      "fillImage": {
+        "width": 1140,
+        "height": 760,
+        "mtype": "image\/jpeg",
+        "id": "6adc1c2c-bb7b-801f-8008-10707f1cf02f",
+        "keepAspectRatio": true
+      }
+    }
+  ]
+}

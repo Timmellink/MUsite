@@ -1,0 +1,145 @@
+{
+  "id": "160006a7-7dc4-800d-8008-106e87c57bae",
+  "name": "Floorball",
+  "type": "text",
+  "x": 927.9999999999999,
+  "y": -5923.999999999999,
+  "width": 48,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 927.9999999999999,
+    "y": -5923.999999999999,
+    "width": 48,
+    "height": 16,
+    "x1": 927.9999999999999,
+    "y1": -5923.999999999999,
+    "x2": 975.9999999999999,
+    "y2": -5907.999999999999
+  },
+  "points": [
+    {
+      "x": 927.9999999999999,
+      "y": -5923.999999999999
+    },
+    {
+      "x": 975.9999999999999,
+      "y": -5923.999999999999
+    },
+    {
+      "x": 975.9999999999999,
+      "y": -5907.999999999999
+    },
+    {
+      "x": 927.9999999999999,
+      "y": -5907.999999999999
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "frameId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "flipX": null,
+  "flipY": null,
+  "growType": "auto-width",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.3",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.3",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "12",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#ffffff",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Floorball"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "key": "96d7b",
+            "fontSize": "12",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#ffffff",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "hideInViewer": false,
+  "positionData": [
+    {
+      "x": 927.9999999999999,
+      "y": -5907.699996948241,
+      "width": 47.80000305175781,
+      "height": 17,
+      "x1": 0,
+      "y1": -0.6999969482421875,
+      "x2": 47.80000305175781,
+      "y2": 16.300003051757812,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#ffffff",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"sourcesanspro\"",
+      "text": "Floorball"
+    }
+  ],
+  "strokes": [],
+  "fills": [],
+  "pageId": "6adc1c2c-bb7b-801f-8008-106b8e77e708"
+}

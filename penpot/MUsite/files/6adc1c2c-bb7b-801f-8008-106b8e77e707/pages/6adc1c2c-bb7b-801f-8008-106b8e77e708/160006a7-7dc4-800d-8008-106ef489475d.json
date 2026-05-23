@@ -1,0 +1,145 @@
+{
+  "id": "160006a7-7dc4-800d-8008-106ef489475d",
+  "name": "Sign up",
+  "type": "text",
+  "x": 1062,
+  "y": -5924.999999999999,
+  "width": 40,
+  "height": 16,
+  "rotation": 0,
+  "selrect": {
+    "x": 1062,
+    "y": -5924.999999999999,
+    "width": 40,
+    "height": 16,
+    "x1": 1062,
+    "y1": -5924.999999999999,
+    "x2": 1102,
+    "y2": -5908.999999999999
+  },
+  "points": [
+    {
+      "x": 1062,
+      "y": -5924.999999999999
+    },
+    {
+      "x": 1102,
+      "y": -5924.999999999999
+    },
+    {
+      "x": 1102,
+      "y": -5908.999999999999
+    },
+    {
+      "x": 1062,
+      "y": -5908.999999999999
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "frameId": "160006a7-7dc4-800d-8008-1074fa16f20f",
+  "flipX": null,
+  "flipY": null,
+  "lastResizeDirection": "horizontal",
+  "growType": "auto-height",
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.3",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.3",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "12",
+                "fontWeight": "700",
+                "textDirection": "ltr",
+                "fontVariantId": "bold",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#007d19",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Sign up"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "key": "a9ie4",
+            "fontSize": "12",
+            "fontWeight": "700",
+            "textDirection": "ltr",
+            "type": "paragraph",
+            "fontVariantId": "bold",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#007d19",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ]
+  },
+  "hideInViewer": false,
+  "opacity": 1,
+  "positionData": [
+    {
+      "x": 1062,
+      "y": -5908.699996948241,
+      "width": 39.41667175292969,
+      "height": 17,
+      "x1": 0,
+      "y1": -0.6999969482421875,
+      "x2": 39.41667175292969,
+      "y2": 16.300003051757812,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "12px",
+      "fontWeight": "700",
+      "textDecoration": "none",
+      "letterSpacing": "normal",
+      "fills": [
+        {
+          "fillColor": "#007d19",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "\"sourcesanspro\"",
+      "text": "Sign up"
+    }
+  ],
+  "pageId": "6adc1c2c-bb7b-801f-8008-106b8e77e708"
+}

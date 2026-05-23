@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="595.2744" PAGEHEIGHT="841.8888" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Basiskleur" SPACE="CMYK" C="53.1929503318837" M="2.20035095750362" Y="92.6253147173266" K="0.160219729915312"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="MUgroen" SPACE="CMYK" C="72.5" M="0" Y="88.5" K="0"/>
+        <COLOR NAME="MUgroen2" SPACE="CMYK" C="72.5" M="0" Y="88.5" K="38.3"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Monochroom donker" SPACE="CMYK" C="66.4057373922331" M="33.0357824063477" Y="94.9858854047455" K="43.0487525749599"/>
+        <COLOR NAME="Monochroom licht" SPACE="CMYK" C="25.8945601586938" M="0" Y="72.5627527275502" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Achtergrond" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="HP_deskjet" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="2" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Clear Sans Bold"/>
+            <Subset Name="Clear Sans Regular"/>
+            <Subset Name="DejaVu Sans Bold"/>
+            <Subset Name="DejaVu Sans Book"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Sectie 1" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normaal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="A4_liggend" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.8888" PAGEHEIGHT="595.2744" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="655.2744" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="140.355643356643" YPOS="695.850537799693" OwnPage="1" ItemID="1001544521" PTYPE="6" WIDTH="760.894788630556" HEIGHT="344.880231431076" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" SHADE="5" PCOLOR2="Black" PLINEART="1" path="M0 0 L760.895 0 L760.895 344.88 L0 344.88 L0 0 Z" copath="M0 0 L760.894 0 L760.894 344.881 L0 344.881 L0 0 Z" gXpos="140.355643356643" gYpos="695.850537799693" gWidth="760.894788630556" gHeight="344.880231431076" LAYER="0"/>
+        <PAGEOBJECT XPOS="141.150515367126" YPOS="696.82798985329" OwnPage="1" ItemID="1015375945" PTYPE="6" WIDTH="763.798776589484" HEIGHT="29.6592460646109" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="MUgroen2" PCOLOR2="Black" PLINEART="1" path="M0 0 L763.799 0 L763.799 29.6592 L0 29.6592 L0 0 Z" copath="M0 0 L763.799 0 L763.799 29.6592 L0 29.6592 L0 0 Z" gXpos="141.150515367126" gYpos="696.82798985329" gWidth="763.798776589484" gHeight="29.6592460646109" LAYER="0"/>
+        <PAGEOBJECT XPOS="141.355643356643" YPOS="59.5784195804196" OwnPage="0" ItemID="980772105" PTYPE="6" WIDTH="758.044431634403" HEIGHT="459.92158041958" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" SHADE="15" PCOLOR2="Black" PLINEART="1" path="M0 0 L758.044 0 L758.044 459.922 L0 459.922 L0 0 Z" copath="M0 0 L758.044 0 L758.044 459.922 L0 459.922 L0 0 Z" gXpos="141.355643356643" gYpos="59.5784195804196" gWidth="758.044431634403" gHeight="437.376125874126" LAYER="0"/>
+        <PAGEOBJECT XPOS="142.204592876627" YPOS="60.6027196410147" OwnPage="0" ItemID="980599017" PTYPE="6" WIDTH="758.21848404645" HEIGHT="119.843107089632" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" SHADE="10" PCOLOR2="Black" PLINEART="1" path="M0 0 L758.218 0 L758.218 119.843 L0 119.843 L0 0 Z" copath="M0 0 L758.218 0 L758.218 119.843 L0 119.843 L0 0 Z" gXpos="142.204592876627" gYpos="60.6027196410147" gWidth="758.21848404645" gHeight="119.843107089632" LAYER="0"/>
+        <PAGEOBJECT XPOS="171.534200351535" YPOS="80.4058541458541" OwnPage="0" ItemID="980874713" PTYPE="2" WIDTH="69.735647597813" HEIGHT="70.3373052012646" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.0589980098120245" LOCALSCY="0.0589980098120245" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/logo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L69.7356 0 L69.7356 70.3373 L0 70.3373 L0 0 Z" copath="M0 0 L69.7356 0 L69.7356 70.3373 L0 70.3373 L0 0 Z" gXpos="171.534200351535" gYpos="80.4058541458541" gWidth="69.735647597813" gHeight="70.3373052012646" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="277.002857871819" YPOS="112.159156024304" OwnPage="0" ItemID="980735417" PTYPE="4" WIDTH="110.484208659265" HEIGHT="31.7533018784494" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L110.484 0 L110.484 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L110.484 0 L110.484 31.7533 L0 31.7533 L0 0 Z" gXpos="277.002857871819" gYpos="112.159156024304" gWidth="110.484208659265" gHeight="31.7533018784494" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="12"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Association"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="367.751610585955" YPOS="112.159156024303" OwnPage="0" ItemID="987418457" PTYPE="4" WIDTH="115.599005194014" HEIGHT="31.7533189501171" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.599 0 L115.599 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L115.599 0 L115.599 31.7533 L0 31.7533 L0 0 Z" gXpos="367.751610585955" gYpos="112.159156024303" gWidth="115.599005194014" gHeight="31.7533189501171" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="12"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Floorball"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="438.214203765051" YPOS="111.141969158573" OwnPage="0" ItemID="992417417" PTYPE="4" WIDTH="115.599005194014" HEIGHT="31.7533189501171" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L115.599 0 L115.599 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L115.599 0 L115.599 31.7533 L0 31.7533 L0 0 Z" gXpos="438.214203765051" gYpos="111.141969158573" gWidth="115.599005194014" gHeight="31.7533189501171" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="12"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="12" CH="Members"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="665.5" YPOS="103.993208319003" OwnPage="0" ItemID="992971689" PTYPE="6" WIDTH="71.2867132867133" HEIGHT="30.5067916809966" RADRECT="10" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Green" PLINEART="1" TransBlend="1" path="M0 10 C0 4.47715 4.47715 0 10 0 L61.2867 0 C66.8096 0 71.2867 4.47715 71.2867 10 L71.2867 20.5068 C71.2867 26.0296 66.8096 30.5068 61.2867 30.5068 L10 30.5068 C4.47715 30.5068 0 26.0296 0 20.5068 L0 10 Z" copath="M0 8.83809 C0 3.95695 5.01457 0 11.2004 0 L60.0864 0 C66.2721 0 71.2867 3.95695 71.2867 8.83809 L71.2867 21.6687 C71.2867 26.5498 66.2721 30.5068 60.0864 30.5068 L11.2004 30.5068 C5.01457 30.5068 0 26.5498 0 21.6687 L0 8.83809 Z" gXpos="665.5" gYpos="103.993208319003" gWidth="64.6586950303692" gHeight="35.110630270116" LAYER="0"/>
+        <PAGEOBJECT XPOS="678.282469890762" YPOS="111.141969158573" OwnPage="0" ItemID="969462505" PTYPE="4" WIDTH="50.6538198934156" HEIGHT="31.7533018784494" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L50.6538 0 L50.6538 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L50.6538 0 L50.6538 31.7533 L0 31.7533 L0 0 Z" gXpos="678.282469890762" gYpos="111.141969158573" gWidth="50.6538198934156" gHeight="31.7533018784494" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="13"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="13" CH="Login"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="746.469406230362" YPOS="102.976021453273" OwnPage="0" ItemID="1007222105" PTYPE="6" WIDTH="75.5760483150925" HEIGHT="34.1463561691043" RADRECT="10" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR="Green" PCOLOR2="Black" PLINEART="1" TransBlend="1" path="M0 10 C0 4.47715 4.47715 0 10 0 L65.576 0 C71.0989 0 75.576 4.47715 75.576 10 L75.576 24.1464 C75.576 29.6692 71.0989 34.1464 65.576 34.1464 L10 34.1464 C4.47715 34.1464 0 29.6692 0 24.1464 L0 10 Z" copath="M0 9.41923 C0 4.21713 4.28216 0 9.56447 0 L66.0116 0 C71.2939 0 75.576 4.21713 75.576 9.41923 L75.576 24.7271 C75.576 29.9292 71.2939 34.1464 66.0116 34.1464 L9.56447 34.1464 C4.28216 34.1464 0 29.9292 0 24.7271 L0 9.41923 Z" gXpos="746.469406230362" gYpos="102.976021453273" gWidth="80.2736828539973" gHeight="36.8748021814252" LAYER="0"/>
+        <PAGEOBJECT XPOS="749.39531252703" YPOS="112.159156024303" OwnPage="0" ItemID="1006663801" PTYPE="4" WIDTH="75.4047833044802" HEIGHT="31.7533018784494" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L75.4048 0 L75.4048 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L75.4048 0 L75.4048 31.7533 L0 31.7533 L0 0 Z" gXpos="749.39531252703" gYpos="112.159156024303" gWidth="75.4047833044802" gHeight="31.7533018784494" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="13"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="13" CH="Sign Up!"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="842.794983983126" YPOS="94.6464702660728" OwnPage="0" ItemID="1001998809" PTYPE="2" WIDTH="53.6071270126656" HEIGHT="51.3166221316019" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.180692331449303" LOCALSCY="0.180692331449303" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/dark_mode.png" IRENDER="0" EMBEDDED="0" path="M0 0 L53.6071 0 L53.6071 51.3166 L0 51.3166 L0 0 Z" copath="M0 0 L53.6071 0 L53.6071 51.3166 L0 51.3166 L0 0 Z" gXpos="842.794983983126" gYpos="94.6464702660728" gWidth="53.6071270126656" gHeight="51.3166221316019" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="200.427916649058" YPOS="218.346963346398" OwnPage="0" ItemID="1001452169" PTYPE="4" WIDTH="318.828497969339" HEIGHT="60.0922702215817" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L318.828 0 L318.828 60.0923 L0 60.0923 L0 0 Z" copath="M0 0 L318.828 0 L318.828 60.0923 L0 60.0923 L0 0 Z" gXpos="200.427916649058" gYpos="218.346963346398" gWidth="318.828497969339" gHeight="60.0922702215817" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="22"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="22" CH="About Floorball"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="202.807816977045" YPOS="251.124565285443" OwnPage="0" ItemID="1007751641" PTYPE="4" WIDTH="302.192183022955" HEIGHT="142.719141776257" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L302.192 0 L302.192 142.719 L0 142.719 L0 0 Z" copath="M0 0 L302.192 0 L302.192 142.719 L0 142.719 L0 0 Z" gXpos="202.807816977045" gYpos="251.124565285443" gWidth="336.226634993937" gHeight="142.719141776257" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="1" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="Floorball is one of the fasted indoor sports in the world. We play year-round with always some members enthusiastic to play a game."/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONTSIZE="10" CH="So, have you always enjoyed indoor hockey more than field hockey? Or would you like something new? Check out our training times and drop by! "/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="619.780562800535" YPOS="212.201162982827" OwnPage="0" ItemID="995595641" PTYPE="2" WIDTH="210.738397998228" HEIGHT="187.788344442443" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.229851094788792" LOCALSCY="0.229851094788792" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/actioin.png" IRENDER="0" EMBEDDED="0" path="M0 0 L210.738 0 L210.738 187.788 L0 187.788 L0 0 Z" copath="M0 0 L210.738 0 L210.738 187.788 L0 187.788 L0 0 Z" gXpos="619.780562800535" gYpos="212.201162982827" gWidth="210.738397998228" gHeight="187.788344442443" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="513.5" YPOS="402.625874125874" OwnPage="0" ItemID="997976041" PTYPE="6" WIDTH="98.1678321678321" HEIGHT="33.2377622377622" RADRECT="10" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Green" PLINEART="1" TransBlend="1" path="M0 10 C0 4.47715 4.47715 0 10 0 L88.1678 0 C93.6907 0 98.1678 4.47715 98.1678 10 L98.1678 23.2378 C98.1678 28.7606 93.6907 33.2378 88.1678 33.2378 L10 33.2378 C4.47715 33.2378 0 28.7606 0 23.2378 L0 10 Z" copath="M0 9.62931 C0 4.31118 6.90549 0 15.4239 0 L82.744 0 C91.2623 0 98.1678 4.31118 98.1678 9.62931 L98.1678 23.6085 C98.1678 28.9266 91.2623 33.2377 82.744 33.2377 L15.4239 33.2377 C6.90549 33.2377 0 28.9266 0 23.6085 L0 9.62931 Z" gXpos="513.5" gYpos="402.625874125874" gWidth="64.6586950303692" gHeight="35.110630270116" LAYER="0"/>
+        <PAGEOBJECT XPOS="519.524475524475" YPOS="408.141969158573" OwnPage="0" ItemID="992856969" PTYPE="4" WIDTH="100.027972027972" HEIGHT="31.7533018784494" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L100.028 0 L100.028 31.7533 L0 31.7533 L0 0 Z" copath="M0 0 L100.028 0 L100.028 31.7533 L0 31.7533 L0 0 Z" gXpos="519.524475524475" gYpos="408.141969158573" gWidth="50.6538198934156" gHeight="31.7533018784494" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="DejaVu Sans Bold" FONTSIZE="13"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="13" CH="Learn more"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="446.84965034965" YPOS="444.748251748252" OwnPage="0" ItemID="997711593" PTYPE="6" WIDTH="11.9363636363638" HEIGHT="12.6209790209791" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" SHADE="70" PLINEART="1" path="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" copath="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" gXpos="446.84965034965" gYpos="444.748251748252" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="426.84965034965" YPOS="444.748251748252" OwnPage="0" ItemID="1000421737" PTYPE="6" WIDTH="11.9363636363638" HEIGHT="12.6209790209791" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" SHADE="30" PLINEART="1" path="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" copath="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" gXpos="426.84965034965" gYpos="444.748251748252" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="467.84965034965" YPOS="444.748251748252" OwnPage="0" ItemID="1007600537" PTYPE="6" WIDTH="11.9363636363638" HEIGHT="12.6209790209791" FRTYPE="1" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" SHADE="30" PLINEART="1" path="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" copath="M11.9364 6.31049 C11.9364 9.7958 9.26444 12.621 5.96818 12.621 C2.67205 12.621 0 9.7958 0 6.31049 C0 2.8253 2.67205 0 5.96818 0 C9.26444 0 11.9364 2.8253 11.9364 6.31049 Z" gXpos="467.84965034965" gYpos="444.748251748252" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="192.468531468531" YPOS="478.328671328671" OwnPage="0" ItemID="1000324585" PTYPE="5" WIDTH="606.20979020979" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="4.24896455423472e-322" PCOLOR2="Black" SHADE2="50" PLINEART="1" path="" gXpos="192.468531468531" gYpos="478.328671328671" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="341" YPOS="483.027972027972" OwnPage="0" ItemID="1018792313" PTYPE="4" WIDTH="376.706293706294" HEIGHT="19.4685314685315" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L376.706 0 L376.706 19.4685 L0 19.4685 L0 0 Z" copath="M0 0 L376.706 0 L376.706 19.4685 L0 19.4685 L0 0 Z" gXpos="341" gYpos="483.027972027972" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FSHADE="70"/>
+                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="8" FSHADE="70" CH="Hier kan nog meer geyap. Geen idee waar je allemaal over zou willen praten."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="182.706286272139" YPOS="695.923712650985" OwnPage="1" ItemID="1006854553" PTYPE="2" WIDTH="60.676421928751" HEIGHT="31.4914176732359" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.0266424853411471" LOCALSCY="0.0266424853411471" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/logo.png" IRENDER="0" EMBEDDED="0" path="M0 0 L60.6764 0 L60.6764 31.4914 L0 31.4914 L0 0 Z" copath="M0 0 L60.6764 0 L60.6764 31.4914 L0 31.4914 L0 0 Z" gXpos="182.706286272139" gYpos="695.923712650985" gWidth="62.4879666994622" gHeight="34.7687146225285" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="700.41274309765" YPOS="707.134983098908" OwnPage="1" ItemID="1002027113" PTYPE="4" WIDTH="111.269234335112" HEIGHT="31.6918216519784" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.269 0 L111.269 31.6918 L0 31.6918 L0 0 Z" copath="M0 0 L111.269 0 L111.269 31.6918 L0 31.6918 L0 0 Z" gXpos="700.41274309765" gYpos="707.134983098908" gWidth="111.269234335112" gHeight="31.6918216519784" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White"/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White" CH="About us"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="746.433422266503" YPOS="707.134983098908" OwnPage="1" ItemID="983777529" PTYPE="4" WIDTH="116.134065423293" HEIGHT="31.691819777166" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.134 0 L116.134 31.6918 L0 31.6918 L0 0 Z" copath="M0 0 L116.134 0 L116.134 31.6918 L0 31.6918 L0 0 Z" gXpos="746.433422266503" gYpos="707.134983098908" gWidth="116.134065423293" gHeight="31.691819777166" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White"/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White" CH="Floorball"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="790.161988738992" YPOS="707.117829510108" OwnPage="1" ItemID="980614297" PTYPE="4" WIDTH="116.134065423293" HEIGHT="31.691819777166" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.134 0 L116.134 31.6918 L0 31.6918 L0 0 Z" copath="M0 0 L116.134 0 L116.134 31.6918 L0 31.6918 L0 0 Z" gXpos="790.161988738992" gYpos="707.117829510108" gWidth="116.134065423293" gHeight="31.691819777166" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White"/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="9" FCOLOR="White" CH="Members"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="210" YPOS="767.664335664336" OwnPage="1" ItemID="991881737" PTYPE="4" WIDTH="272.013986013986" HEIGHT="634.440559440559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.014 0 L272.014 634.441 L0 634.441 L0 0 Z" copath="M0 0 L272.014 0 L272.014 634.441 L0 634.441 L0 0 Z" gXpos="210" gYpos="767.664335664336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Clear Sans Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="23" CH="Floorball"/>
+                <para/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="Clear Sans Regular" FONTSIZE="10" CH="Floorball is one of the fasted indoor sports in the world. We play year-round with always some members enthusiastic to play a game. So, have you always enjoyed indoor hockey more than field hockey? Or would you like something new? Check out our training times and drop by! "/>
+                <para LINESPMode="1"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="10" CH="Association"/>
+                <para LINESPMode="1"/>
+                <ITEXT FONT="Clear Sans Regular" FONTSIZE="10" CH="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in commodo metus. Nulla interdum, ipsum vel pharetra porta, velit nibh pellentesque turpis, molestie dictum magna quam a urna. Integer mattis metus nulla, vitae consectetur ante fermentum sit amet. Nam "/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="646.450616601477" YPOS="768.332670227896" OwnPage="1" ItemID="1010326201" PTYPE="2" WIDTH="191.539825652462" HEIGHT="161.113983488769" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.216919394849901" LOCALSCY="0.216919394849901" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/scribus_temp_TnwIiD.xcf" IRENDER="0" EMBEDDED="0" path="M0 0 L191.54 0 L191.54 161.114 L0 161.114 L0 0 Z" copath="M0 0 L191.539 0 L191.539 161.114 L0 161.114 L0 0 Z" gXpos="646.450616601477" gYpos="768.332670227896" gWidth="191.539825652462" gHeight="161.113983488769" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="691.476245364924" YPOS="960.505282964227" OwnPage="1" ItemID="999591481" PTYPE="2" WIDTH="144.02721411756" HEIGHT="75.3433489275141" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.175429006233325" LOCALSCY="0.175429006233325" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="afbeeldingen/rooster.png" IRENDER="0" EMBEDDED="0" path="M0 0 L144.027 0 L144.027 75.3433 L0 75.3433 L0 0 Z" copath="M0 0 L144.027 0 L144.027 75.3433 L0 75.3433 L0 0 Z" gXpos="691.476245364924" gYpos="960.505282964227" gWidth="144.02721411756" gHeight="75.3433489275141" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="838.5" YPOS="706.184201725503" OwnPage="1" ItemID="1008909817" PTYPE="6" WIDTH="43.5734265734266" HEIGHT="16" RADRECT="4.4" FRTYPE="2" CLIPEDIT="1" PWIDTH="1" PCOLOR="White" SHADE="6" PCOLOR2="Black" PLINEART="1" PLINEJOIN="128" path="M0 4.4 C0 1.96995 1.96995 0 4.4 0 L39.1734 0 C41.6035 0 43.5734 1.96995 43.5734 4.4 L43.5734 11.6 C43.5734 14.0301 41.6035 16 39.1734 16 L4.4 16 C1.96995 16 0 14.0301 0 11.6 L0 4.4 Z" copath="M0 3.60238 C0 1.61284 1.69785 0 3.79224 0 L39.7812 0 C41.8756 0 43.5734 1.61284 43.5734 3.60238 L43.5734 12.3976 C43.5734 14.3872 41.8756 16 39.7812 16 L3.79224 16 C1.69785 16 0 14.3872 0 12.3976 L0 3.60238 Z" doOverprint="1" gXpos="838.5" gYpos="706.184201725503" gWidth="50.7906515381836" gHeight="19.5048191674694" LAYER="0"/>
+        <PAGEOBJECT XPOS="845.644796975451" YPOS="708.714685314685" OwnPage="1" ItemID="980962985" PTYPE="4" WIDTH="75.7538211959472" HEIGHT="32.1121175613884" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L75.7538 0 L75.7538 32.1121 L0 32.1121 L0 0 Z" copath="M0 0 L75.7538 0 L75.7538 32.1121 L0 32.1121 L0 0 Z" gXpos="845.644796975451" gYpos="708.714685314685" gWidth="75.7538211959472" gHeight="31.691819777166" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Clear Sans Bold" FONTSIZE="8" FCOLOR="MUgroen2" FSHADE="100"/>
+                <ITEXT FONT="Clear Sans Bold" FONTSIZE="8" FCOLOR="MUgroen2" FSHADE="100" CH="Sign Up"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
